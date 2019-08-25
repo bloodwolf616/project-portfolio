@@ -26,3 +26,7 @@ else {ageComparison = "I dont know your age because you didnt enter a number."}
 const output = document.getElementById('output');
 
 output.textContent = `hello, ${visitorName}.I did the math and you are ${ageInhours()} hours old. ${ageComparison} Feel free to inspect my portfolio site. I've put all my entry level skills in Html, Css, and JavaScript into this site `;
+
+
+
+const hello = "hello world"
